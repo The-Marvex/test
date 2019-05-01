@@ -1,1 +1,1 @@
-e –July/August) as I think this will help me enormously develop my development skills. As a 2ndyear majoring in Information Technology and Mathematical Innovation at Cluster Innovation Centre, University of Delhi I enjoy developing and improving softwares. I have interned at Machine Pulse (a subsidiary of Mahindra Susten) for 2 months. My coursework, experience and campus
+
