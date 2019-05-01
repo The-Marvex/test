@@ -1,1 +1,1 @@
-Currently, there are three modules that are working:Registration: Users need to register using their email address by which they are registered on Github since in the future release that email address will be used for creating Github OAuth Token. The registration details are stored in a NoSQL database (MongoDb)Login: User can log in to the profile after registering. After logging in, they will be redirected to p
+DeepLearningIanGoodfellowYoshuaBengioAaron
