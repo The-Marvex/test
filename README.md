@@ -1,1 +1,1 @@
-
+22ndFebruary 2019Dear Sir/ Madam,I am looking for a programming internship for summers for a tentative duration of 2 months (May/June –July/August) as I think this will help me enormously develop my development skills. As a 2ndyear majoring in Information Technology and Mathematical Innovation at Cluster Innovation Centre, University of Delhi I enjoy developing and improving softwares. I have interned at Machine Pulse (a subsidiary of
