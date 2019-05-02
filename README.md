@@ -1,1 +1,1 @@
-DeepLearningIanGoodfellowYoshuaBengioAaron
+AcknowledgmentsThisbookwouldnothavebeenpossiblewithoutthecontributionsofmanypeople.
